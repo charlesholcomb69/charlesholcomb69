@@ -1,0 +1,13 @@
+Class 2
+
+String - is class that can represnt combination of multiple characters enlosed in ""
+
+When we have a String value and we want to attach any other type of value to it we use + => plays roles as concatenation operator
+
+Operators in Java:
+
+assignment operator
+=
+
+arithmetical operators:
++, -, *, /, %

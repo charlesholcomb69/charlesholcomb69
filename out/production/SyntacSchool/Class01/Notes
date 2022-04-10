@@ -1,0 +1,41 @@
+Java Class 1
+
+In Eclipse we need 3 main windows:
+				(Window --> Show View --> Select your window ...)
+
+				1. Project Explorer
+				2. Console
+				3. Editor - comes after we create an actual java program
+
+JavabasicsfromAsel
+
+JavaBasicsFromAsel - name for Projects --> follow Camel casing
+
+to increase font:
+			in MAC -> cmd+ "+"
+			in windows -> ctrl + "+"
+
+DataTypes:
+
+
+numerical:
+
+		whole numbers
+
+						byte
+						short
+						int
+						long
+
+		decimal number
+
+						float
+						double
+
+non numerical:
+
+		1 character   char A, B, C, D, F, M %, $, @, =
+
+		boolean  true/false
+
+
